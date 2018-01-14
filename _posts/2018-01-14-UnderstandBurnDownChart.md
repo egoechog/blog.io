@@ -25,7 +25,7 @@ description: Scrum burndown chart有什么门道？
 
 1.  理想团队
 
-    ![IdealTeam](ScrumImages/IdealTeam.jpg)
+    ![IdealTeam](/img/posts/burndownchart/IdealTeam.jpg)
 
     **解读**
 
@@ -42,7 +42,7 @@ description: Scrum burndown chart有什么门道？
 
 2.  优秀团队
 
-    ![GreatTeam](ScrumImages/GreatTeam.jpg)
+    ![GreatTeam](/img/posts/burndownchart/GreatTeam.jpg)
 
     **解读**
 
@@ -62,7 +62,7 @@ description: Scrum burndown chart有什么门道？
 
 3.  不错的团队
 
-    ![NiceTeam](ScrumImages/NiceTeam.jpg)
+    ![NiceTeam](/img/posts/burndownchart/NiceTeam.jpg)
 
 **解读**
 
@@ -78,7 +78,7 @@ description: Scrum burndown chart有什么门道？
 
 4.  进度滞后
 
-    ![BehindSchedule](ScrumImages/BehindSchedule.jpg)
+    ![BehindSchedule](/img/posts/burndownchart/BehindSchedule.jpg)
 
 **解读**
 
@@ -105,7 +105,7 @@ description: Scrum burndown chart有什么门道？
 
 5.  进度超前
 
-![AheadSchedule](ScrumImages/AheadSchedule.jpg)
+![AheadSchedule](/img/posts/burndownchart/AheadSchedule.jpg)
 
 **解读**
 
@@ -122,7 +122,7 @@ description: Scrum burndown chart有什么门道？
 
 6.  任务不饱和
 
-    ![LessAssignment](ScrumImages/LessAssignment.jpg)
+    ![LessAssignment](/img/posts/burndownchart/LessAssignment.jpg)
 
 **解读**
 
@@ -136,7 +136,7 @@ description: Scrum burndown chart有什么门道？
 
 7.  进度停滞(亟需管理层介入)
 
-    ![ManagementComing](ScrumImages/ManagementComing.jpg)
+    ![ManagementComing](/img/posts/burndownchart/ManagementComing.jpg)
 
 **解读**
 
@@ -158,7 +158,7 @@ description: Scrum burndown chart有什么门道？
 
 8.  无人工作？
 
-    ![DoYourDuties](ScrumImages/DoYourDuties.jpg)
+    ![DoYourDuties](/img/posts/burndownchart/DoYourDuties.jpg)
 
 **解读**
 
@@ -177,7 +177,7 @@ description: Scrum burndown chart有什么门道？
 
 9.  工作量为零
 
-    ![ZeroEffort](ScrumImages/ZeroEffort.jpg)
+    ![ZeroEffort](/img/posts/burndownchart/ZeroEffort.jpg)
 
 **解读**
 
@@ -194,7 +194,7 @@ description: Scrum burndown chart有什么门道？
 
 10.  任务越做越多?
 
-     ![UpToSky](ScrumImages/UpToSky.jpg)
+     ![UpToSky](/img/posts/burndownchart/UpToSky.jpg)
 
 **解读**
 
@@ -215,7 +215,7 @@ description: Scrum burndown chart有什么门道？
 
 11.  任务量起伏不定
 
-    ![BumpOnTheRoad](ScrumImages/BumpOnTheRoad.jpg)
+    ![BumpOnTheRoad](/img/posts/burndownchart/BumpOnTheRoad.jpg)
 
     **解读**
 
