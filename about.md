@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "Stay simple, stay foolish" 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+I am a software engineer located in Beijing,China. I am working in EDA industry over 10 years and I am interesting in techniques like Parallel Computing, Data Analyzing, and GUI development.
 
 
 
